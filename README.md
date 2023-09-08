@@ -10,6 +10,7 @@ A simple and sleek Google Calendar desktop app made with Electron. No more havin
 - Customizable window icon
 
 ## Installation
+If you only want the program and nothing else, you can simply download the [Beta Release](https://github.com/braindead-dev/google-calendar-app/releases/tag/v1.0.0) here. If you want to build the program from it's source, the steps are below.
 
 ### Prerequisites
 - [Node.js](https://nodejs.org) and npm
